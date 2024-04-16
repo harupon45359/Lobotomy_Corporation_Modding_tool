@@ -15,11 +15,17 @@
 監修・デバッグ：BlazeStar 様
 
 【翻訳協力者】
+
 韓国語：포메란 (Pomeran) 様
+
 韓国語：kygi123 様
+
 ロシア語：Knightey  様
+
 中国語：21474836(Lin)  様
+
 中国語：kcr  様
+
 英語：　PowerUp 様
 
 
