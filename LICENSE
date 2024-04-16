@@ -1,24 +1,44 @@
-This is free and unencumbered software released into the public domain.
+【非公式ツール】：
+ このツールは非公式のものであり、
+ProjectMoon（公式）とは関連がありません。このツールに関する事で、公式や他の方への迷惑行為を禁止します。
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+【使用上の制限】： このツールを用いて特定の個人や団体に対する誹謗中傷、その他倫理に反するコンテンツの作成は禁止します。
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+【免責事項】： このツールの使用により生じたいかなるトラブルや損害に対しても、製作者は一切の責任を負いません。ユーザーは自己の責任でツールを使用するものとします。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+【配布の中止について】：
+ このツールは予告なしに配布を中止することがあります。
+予めご了承下さい。
 
-For more information, please refer to <https://unlicense.org>
+【二次配布の禁止】：
+ マルウェアを仕込まれる可能性を考慮して、このツールの二次配布は原則禁止します。
+
+【利用規約の変更】： 規約は予告なく変更される可能性があります。変更があった場合は、ユーザーは最新の規約に従うものとします。
+
+【使用報告及び、バグ報告】：
+使用報告はユーザーの任意です。バグ報告は歓迎しますが、全てのバグに対応する事を保障するものではありません。
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+[Unofficial Tool]:
+This tool is unofficial,
+It is not associated with ProjectMoon (officially), and any conduct related to this tool that is disruptive to officials or other parties is prohibited.
+
+[Restrictions on Use]:
+It is prohibited to use this tool to create slanderous or otherwise unethical content against specific individuals or groups.
+
+[Disclaimer]:
+The maker is not responsible for any disputes and damages caused by the use of this tool. Users are requested to comply with the terms and conditions on their own and are solely responsible for any consequences caused.
+
+[Regarding Discontinuation]:
+This tool may be discontinued without prior notice.
+Please understand this in advance.
+
+[Prohibition of Secondary Distribution]:
+Considering the possibility of malware or other malicious programs being installed, secondary distribution of this tool is prohibited.
+
+[Changes to the Terms of Use]: The Terms of Use are subject to change without notice. In the event of any changes, users are required to comply with the latest terms and conditions after changes are made.
+
+[Reporting Usage and Bugs]:
+Usage reports are optional. Bug reports are welcome, but it isn’t guaranteed that all bugs will be addressed.
