@@ -1,5 +1,10 @@
 【Lobotomy Corporation Modding tool】ver1.1
+2024/05/30
 
+・ギフト機能を追加しました。
+・その他バグや機能していない部分を削除
+・仕様を一部変更しました。
+ギフトの作り方→　[https://4yefbx334lw3.blog.fc2.com/blo...](https://4yefbx334lw3.blog.fc2.com/blog-entry-30.html)
 
 2024/04/15
 ・多言語対応しました。
